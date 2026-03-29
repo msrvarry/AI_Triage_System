@@ -1,4 +1,5 @@
 # Make sure to install the required packages before running this code
+# pip install streamlit
 # Run this code using the command "streamlit run app.py"
 
 import streamlit as st
