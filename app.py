@@ -1,3 +1,6 @@
+# Make sure to install the required packages before running this code
+# Run this code using the command "streamlit run app.py"
+
 import streamlit as st
 import numpy as np
 import pandas as pd
