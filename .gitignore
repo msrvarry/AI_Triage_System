@@ -1,0 +1,7 @@
+venv/
+venv_gpu/
+data/
+*.npy
+*.csv
+__pycache__/
+.ipynb_checkpoints/
